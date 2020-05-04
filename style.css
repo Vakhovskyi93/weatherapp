@@ -1,0 +1,14 @@
+.container{
+    width: 320px;
+    margin: auto;
+}
+.weather_item{
+    border: 1px solid brown;
+}
+.flex_col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: auto;
+}
